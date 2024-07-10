@@ -1,0 +1,24 @@
+.main-div{
+    min-height:85vh;
+    width:100%;
+    margin-top: 100px;
+    margin-left: 0px;
+    margin-right:0px;
+}
+.main-div .resume-section{
+    margin:0px auto;
+    max-width: 1000;
+    height:auto;
+    display: flex;
+    justify-content: space-between;
+    margin-left:"100px";
+    margin-right:"40px";
+}
+html{
+    height:100%;
+}
+.resume-div{
+margin-left:"350px";
+display:"flex";
+align-items:"center";
+}

@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(0,183,255, 1);
+   
+  background-image:url("https://img.freepik.com/free-vector/realistic-bokeh-background_23-2149342927.jpg?t=st=1720506368~exp=1720509968~hmac=d91f778f1a46bfc0a8c944867417581c607079b99121a6cfcc1a51381355b089&w=826");
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
